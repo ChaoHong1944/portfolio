@@ -23,6 +23,7 @@ const Header = () => {
             <a href="/Official Resume 2025.pdf" download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>My Resume <Image src={assets.download_icon} alt='' className='rounded-full w-4'/></a>
         </div>
     </div>
+    //lets do this i believe in myself
   );
 };
 
