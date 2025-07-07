@@ -15,6 +15,10 @@ module.exports = {
       fontFamily: {
         Outfit: ["Outfit", "sans-serif"],
         Ovo: ["Ovo", "serif"],
+      },
+      boxShadow: {
+        'gray' : '4px 4px 0 #ccc',
+        'white' : '4px 4px 0 #fff',
       }
     },
   },
