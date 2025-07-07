@@ -60,7 +60,7 @@ portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
+   git clone [https://github.com/ChaoHong1944/portfolio]
    cd portfolio
    ```
 
@@ -116,32 +116,11 @@ portfolio/
 - Keyboard navigation support
 - High contrast design
 
-## 🌐 Deployment
-
-The easiest way to deploy this portfolio is using **[Vercel](https://vercel.com/)**:
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with zero configuration
-
-Alternative deployment options:
-- **Netlify** - Static site hosting
-- **GitHub Pages** - Free hosting for static sites
-- **Railway** - Full-stack deployment platform
-
 ## 📧 Contact
 
 **Chao Hong** - Full Stack Developer
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
-- 🌐 Portfolio: [Your Live Portfolio URL]
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-⭐ **If you found this portfolio helpful, please give it a star!**
+- 📧 Email: [chaohong1944@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/chao-hong/]
+- 🐙 GitHub: [https://github.com/ChaoHong1944]
+- 🌐 Portfolio: [URL]
